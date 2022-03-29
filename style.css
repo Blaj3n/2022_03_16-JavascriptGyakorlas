@@ -1,0 +1,16 @@
+#kepek img{
+    width: 100%;
+}
+
+#kepek div {
+    flex: 0 0 33%;
+}
+#kepek {
+    display: flex;
+    flex-flow:row wrap;
+}
+.formazas {
+    border: 2px dashed purple;
+    background: lightcoral;
+    font-size: 20px;
+}
